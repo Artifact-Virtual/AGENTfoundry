@@ -9,7 +9,7 @@
 [![Aider](https://img.shields.io/badge/AI-Aider--Chat-brightgreen.svg)](https://github.com/paul-gauthier/aider)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama-black.svg)](https://ollama.ai/)
 
-An AI-powered code generation tool that converts natural language prompts into working codebases using multi-agent workflows and iterative refinement.
+An AI-powered code generation tool that converts natural language prompts into working codebases using multi-agent workflows and iterative refinement. In other words, this is a prompt-to-product, fully hands-off automation, from prototype working code. It is designed as a compliment to the newly introduced in-house production pipeline to help automate the iteration process to develop robust systems.
 
 ## Features
 
