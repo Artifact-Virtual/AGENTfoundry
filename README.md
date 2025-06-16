@@ -22,7 +22,7 @@ An AI-powered code generation tool that converts natural language prompts into w
 ## Installation
 
 ```bash
-git clone https://github.com/artifactvirtual/agent-foundry.git
+git clone https://github.com/artifact-virtual/agent-foundry.git
 cd agent-foundry
 python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
